@@ -2,6 +2,8 @@
 
 # Full Stack Application
 
+![image](https://user-images.githubusercontent.com/56149337/83363822-5d3a4600-a351-11ea-8ea8-ff76f52b50fd.png)
+
 # Description
 
 Create React-based Google Books Searcher app that shows books on user searches. Users can save them to review or purchase later.
