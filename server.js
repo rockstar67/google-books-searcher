@@ -21,6 +21,6 @@ mongoose.connect(process.env.MONGODB_URI || "mongodb://localhost/googlebooks");
 // Send every other request to the React app
 
 
-app.listen(PORT, () => {
+app.listen(PORT, function () {
   console.log(`🌎 ==> API server now on port ${PORT}!`);
 });
