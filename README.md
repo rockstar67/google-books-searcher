@@ -17,6 +17,9 @@ This App is deployed on Heroku:https://radiant-atoll-96838.herokuapp.com/
 
 # Technologies used
 
+
+![Mern](https://user-images.githubusercontent.com/56149337/83363780-f321a100-a350-11ea-95e7-852670b47a33.jpg)
+
 MVC design pattern: Model, View, Controller.
 
 
